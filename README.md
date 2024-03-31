@@ -1,1 +1,2 @@
-# 7192416_APIs_DRF
+# Django API
+Learning django restful api. 
