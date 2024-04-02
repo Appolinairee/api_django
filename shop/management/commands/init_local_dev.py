@@ -1,7 +1,8 @@
 from django.core.management.base import BaseCommand
 from django.contrib.auth import get_user_model
 
-from shop.models import Category
+# from shop.models import Category
+from ...models import Category
 
 UserModel = get_user_model()
 
